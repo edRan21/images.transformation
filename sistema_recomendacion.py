@@ -32,10 +32,14 @@ print(f"Calificación de recomendaciones usuarios-tiendas en una matriz:\n {A}\n
 
 """ 
     Paso 2. Aplicar la descomposición de valores singulares (SVD)
+    
+    NOTA: En los argumentos de 'svds()' para probar diferentes valores dimensionales de 'k' unicamente modique la asignación de 'k= ',
+    por defecto es '6' y como maximo en este escenario es '9'
+    
 """
 # Llamamos a nuestra funicón de SciPy 'svds()' para pasarle como argumento nuestra matriz a descomponer y especificamos dos ...
 # atributos que nos retornarán valores de la descomposición 
-U, sigma, Vt = svds(A, k=2, which='LM', return_singular_vectors=True)
+U, sigma, Vt = svds(A, k=4, which='LM', return_singular_vectors=True)
 
 print("Matriz descompuesta por svds 'U' (valores propios de R*R-trans):\n",U,"\n\n",
       "vector descompuesto '∑' por svds (valores singulares de la matriz R):\n",sigma,"\n\n",
@@ -50,7 +54,7 @@ print(f"\n Dimensiones de U={U.shape}, ∑={sigma.shape} y V-transpuesta={Vt.sha
     Paso 3. Reconstrucción de la matriz de preferencias
 """
 R_aprox = U @ sigma @ Vt
-print("Matriz reconstruida con recomendaciones a productos que fueron calificados con 0:\n",R_aprox)
+print("Matriz reconstruida con las recomendaciones-productos de cada usuario donde en cada calificación influye k:\n",R_aprox)
 print("Elementos de cada dimensión de la matriz R reconstruida:\n",R_aprox.shape,"\n")
 
 
