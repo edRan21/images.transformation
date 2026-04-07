@@ -1,0 +1,20 @@
+age,monthly_income,daily_internet_hours,smartphone_usage_years,social_media_hours,online_payment_trust_score,tech_savvy_score,monthly_online_orders,monthly_store_visits,avg_online_spend,avg_store_spend,discount_sensitivity,return_frequency,avg_delivery_days,delivery_fee_sensitivity,free_return_importance,product_availability_online,impulse_buying_score,need_touch_feel_score,brand_loyalty_score,environmental_awareness,time_pressure_level,gender,city_tier,shopping_preference
+56,221111,6.5,12,0.7,1,6,16,16,28551,144092,2,3,2,6,7,7,1,3,6,5,2,Other,Tier 3,Store
+69,96029,8.2,13,2.7,6,9,14,1,124056,28421,4,7,4,1,3,4,9,6,8,1,7,Male,Tier 3,Hybrid
+46,19055,6.4,4,2.1,10,8,2,0,81939,128229,9,4,5,3,4,10,1,1,3,3,3,Female,Tier 3,Store
+32,53170,6.4,11,0.7,2,10,20,3,35901,134650,7,0,3,3,10,2,4,8,2,6,6,Female,Tier 1,Store
+60,244016,6.0,5,0.7,2,5,18,16,131971,34122,5,9,2,4,2,5,8,9,7,1,6,Male,Tier 3,Store
+25,114976,7.6,6,4.0,1,7,31,6,92423,123383,2,8,3,5,10,6,6,3,4,4,8,Other,Tier 2,Store
+78,43251,4.9,6,3.2,1,8,10,4,26398,18035,9,5,5,5,2,8,9,4,9,9,8,Other,Tier 2,Hybrid
+38,150604,3.1,10,3.7,4,9,17,7,131561,33308,2,1,2,10,10,8,8,9,6,1,4,Other,Tier 2,Store
+56,150996,7.3,2,1.1,5,3,28,0,123438,97145,7,6,4,5,2,9,8,2,6,6,4,Female,Tier 3,Store
+75,63037,6.8,4,2.9,4,8,2,9,74311,79808,10,0,2,2,9,6,9,1,5,1,7,Female,Tier 3,Store
+36,224154,8.6,12,5.4,6,3,49,3,56198,140722,9,0,7,10,10,9,9,10,8,10,5,Male,Tier 3,Store
+40,107115,1.1,9,2.2,8,1,3,13,40543,46725,4,8,6,9,6,3,8,2,7,2,5,Female,Tier 3,Store
+28,217693,5.8,7,2.6,2,4,27,8,83429,122126,9,2,7,9,3,7,10,1,7,6,5,Other,Tier 2,Store
+28,92926,6.2,9,2.5,1,7,8,16,81177,19617,8,7,6,4,10,6,9,3,1,5,8,Male,Tier 2,Store
+41,224888,3.0,6,2.4,2,9,37,13,49294,103713,7,4,3,3,1,2,10,7,5,5,1,Male,Tier 2,Store
+70,235726,5.8,11,1.5,10,10,6,18,73565,139218,8,1,6,6,1,1,9,10,8,4,10,Male,Tier 1,Store
+53,85400,8.4,7,2.6,6,7,0,1,30148,58440,4,1,7,1,1,7,5,10,5,3,1,Other,Tier 2,Store
+57,114525,10.2,9,4.6,4,10,34,13,98395,98336,7,4,1,4,2,7,10,5,8,7,6,Female,Tier 1,Store
+41,116164,8.0,14,2.4,7,5,46,8,23909,42179,3,1,5,2,10,9,1,3,5,6,8,Female,Tier 2,Store
