@@ -1,5 +1,5 @@
 # Images.transformation
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 <h1>Practicas de algebra lineal</h1>
 
 <p> Bienvenido al repositorio hecho con el objetivo de documentar, almacenar, aprender y seguir explorando la aplicación del campo matemático del Algebra Lineal.</p>
