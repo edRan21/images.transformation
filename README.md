@@ -14,7 +14,7 @@
 <p> Gran parte de las bibliotecas utilizadas en estos scripts fueron: OpenCV para la manipulación de imagenes, útil en el contenido gráfico.
     Matplotlib para las opereciones matemáticas y numpy para el algebra </p>
 
-> ![NOTE]
+> [!NOTE]
 > Este repositorio esta dedicado para seguir actualizandose continuamente en temás que abordaran conceptos de Ciencas de Datos, Maching Learning, y temás academicos que permiten comprender de mejor manera conceptos que pueden ser abstractos pero entendidos bajo ejemplos y profudamente dominados si se complementan con estudios matemáticos u ingeniería. 
 
 <i> La meta de este repositorio es convertirse en un recurso de estudio y consulta para repasar, reforzar y mejorar las habilidades de programación aplicada bajo conceptos y temás matemáticos, sea moderno para la tecnología actual y actualizado para la calidad de fuente de información de hoy en día. </i>
